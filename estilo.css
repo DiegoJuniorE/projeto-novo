@@ -1,0 +1,24 @@
+.carousel-inner{
+        margin: 0%;
+        padding: 0%;
+        
+       
+     }
+     .carrosel1{
+        width: 50%;
+        justify-content: center;
+        display: flex;
+        margin: 10% auto;
+     }
+        button:hover{
+            background-color:  aqua;
+        }
+       
+       
+
+body{
+    background: rgb(21,108,223);
+    background: linear-gradient(90deg, rgba(21,108,223,0.520045518207283) 0%, rgba(246,8,115,0.43881302521008403) 35%, rgba(173,0,255,0.592874649859944) 100%);
+}
+
+  
